@@ -17,7 +17,6 @@ git push // envia alterações locais para o repositório remoto
 git clone // clonar um projeto / repositório
 git pull // puxa do repositório remoto. 
 
+git checkout -b teste -> cria nova branch e ja altera para ela 
+
 git remote add origin git@github.com:marcusipotec/aula-git.git
-
-
-----linha nova-------
