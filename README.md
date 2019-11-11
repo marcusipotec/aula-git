@@ -19,4 +19,6 @@ git pull // puxa do repositório remoto.
 
 git checkout -b teste -> cria nova branch e ja altera para ela 
 
+git checkout 9302ebaa50515f24e012b281f5f22ccd96c60047 -- package.json // pegar arquivo em determinado ponto da historia
+
 git remote add origin git@github.com:marcusipotec/aula-git.git
