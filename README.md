@@ -18,3 +18,6 @@ git clone // clonar um projeto / repositório
 git pull // puxa do repositório remoto. 
 
 git remote add origin git@github.com:marcusipotec/aula-git.git
+
+
+----linha nova-------
